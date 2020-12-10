@@ -1,0 +1,10 @@
+C:\Users\carol\source\repos\CaleumCodesExercicies\CaleumCodesExercicies\bin\Debug\CaleumCodesExercicies.exe.config
+C:\Users\carol\source\repos\CaleumCodesExercicies\CaleumCodesExercicies\bin\Debug\CaleumCodesExercicies.exe
+C:\Users\carol\source\repos\CaleumCodesExercicies\CaleumCodesExercicies\bin\Debug\CaleumCodesExercicies.pdb
+C:\Users\carol\source\repos\CaleumCodesExercicies\CaleumCodesExercicies\obj\Debug\CaleumCodesExercicies.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\CaleumCodesExercicies\CaleumCodesExercicies\obj\Debug\CaleumCodesExercicies.Form1.resources
+C:\Users\carol\source\repos\CaleumCodesExercicies\CaleumCodesExercicies\obj\Debug\CaleumCodesExercicies.Properties.Resources.resources
+C:\Users\carol\source\repos\CaleumCodesExercicies\CaleumCodesExercicies\obj\Debug\CaleumCodesExercicies.csproj.GenerateResource.cache
+C:\Users\carol\source\repos\CaleumCodesExercicies\CaleumCodesExercicies\obj\Debug\CaleumCodesExercicies.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\CaleumCodesExercicies\CaleumCodesExercicies\obj\Debug\CaleumCodesExercicies.exe
+C:\Users\carol\source\repos\CaleumCodesExercicies\CaleumCodesExercicies\obj\Debug\CaleumCodesExercicies.pdb

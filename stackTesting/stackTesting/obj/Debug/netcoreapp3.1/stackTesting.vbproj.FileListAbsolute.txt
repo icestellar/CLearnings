@@ -1,0 +1,13 @@
+C:\Users\carol\source\repos\stackTesting\stackTesting\bin\Debug\netcoreapp3.1\stackTesting.exe
+C:\Users\carol\source\repos\stackTesting\stackTesting\bin\Debug\netcoreapp3.1\stackTesting.deps.json
+C:\Users\carol\source\repos\stackTesting\stackTesting\bin\Debug\netcoreapp3.1\stackTesting.runtimeconfig.json
+C:\Users\carol\source\repos\stackTesting\stackTesting\bin\Debug\netcoreapp3.1\stackTesting.runtimeconfig.dev.json
+C:\Users\carol\source\repos\stackTesting\stackTesting\bin\Debug\netcoreapp3.1\stackTesting.dll
+C:\Users\carol\source\repos\stackTesting\stackTesting\bin\Debug\netcoreapp3.1\stackTesting.pdb
+C:\Users\carol\source\repos\stackTesting\stackTesting\obj\Debug\netcoreapp3.1\stackTesting.vbprojAssemblyReference.cache
+C:\Users\carol\source\repos\stackTesting\stackTesting\obj\Debug\netcoreapp3.1\stackTesting.AssemblyInfoInputs.cache
+C:\Users\carol\source\repos\stackTesting\stackTesting\obj\Debug\netcoreapp3.1\stackTesting.AssemblyInfo.vb
+C:\Users\carol\source\repos\stackTesting\stackTesting\obj\Debug\netcoreapp3.1\stackTesting.vbproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\stackTesting\stackTesting\obj\Debug\netcoreapp3.1\stackTesting.dll
+C:\Users\carol\source\repos\stackTesting\stackTesting\obj\Debug\netcoreapp3.1\stackTesting.pdb
+C:\Users\carol\source\repos\stackTesting\stackTesting\obj\Debug\netcoreapp3.1\stackTesting.genruntimeconfig.cache

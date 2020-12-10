@@ -1,0 +1,13 @@
+C:\Users\carol\source\repos\NFeTeste\NFeTeste\obj\Debug\netcoreapp3.1\NFeTeste.vbprojAssemblyReference.cache
+C:\Users\carol\source\repos\NFeTeste\NFeTeste\obj\Debug\netcoreapp3.1\NFeTeste.AssemblyInfoInputs.cache
+C:\Users\carol\source\repos\NFeTeste\NFeTeste\obj\Debug\netcoreapp3.1\NFeTeste.AssemblyInfo.vb
+C:\Users\carol\source\repos\NFeTeste\NFeTeste\obj\Debug\netcoreapp3.1\NFeTeste.vbproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\NFeTeste\NFeTeste\bin\Debug\netcoreapp3.1\NFeTeste.exe
+C:\Users\carol\source\repos\NFeTeste\NFeTeste\bin\Debug\netcoreapp3.1\NFeTeste.deps.json
+C:\Users\carol\source\repos\NFeTeste\NFeTeste\bin\Debug\netcoreapp3.1\NFeTeste.runtimeconfig.json
+C:\Users\carol\source\repos\NFeTeste\NFeTeste\bin\Debug\netcoreapp3.1\NFeTeste.runtimeconfig.dev.json
+C:\Users\carol\source\repos\NFeTeste\NFeTeste\bin\Debug\netcoreapp3.1\NFeTeste.dll
+C:\Users\carol\source\repos\NFeTeste\NFeTeste\bin\Debug\netcoreapp3.1\NFeTeste.pdb
+C:\Users\carol\source\repos\NFeTeste\NFeTeste\obj\Debug\netcoreapp3.1\NFeTeste.dll
+C:\Users\carol\source\repos\NFeTeste\NFeTeste\obj\Debug\netcoreapp3.1\NFeTeste.pdb
+C:\Users\carol\source\repos\NFeTeste\NFeTeste\obj\Debug\netcoreapp3.1\NFeTeste.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\carol\source\repos\testConsoleApp\testConsoleApp\bin\Debug\netcoreapp3.1\testConsoleApp.exe
+C:\Users\carol\source\repos\testConsoleApp\testConsoleApp\bin\Debug\netcoreapp3.1\testConsoleApp.deps.json
+C:\Users\carol\source\repos\testConsoleApp\testConsoleApp\bin\Debug\netcoreapp3.1\testConsoleApp.runtimeconfig.json
+C:\Users\carol\source\repos\testConsoleApp\testConsoleApp\bin\Debug\netcoreapp3.1\testConsoleApp.runtimeconfig.dev.json
+C:\Users\carol\source\repos\testConsoleApp\testConsoleApp\bin\Debug\netcoreapp3.1\testConsoleApp.dll
+C:\Users\carol\source\repos\testConsoleApp\testConsoleApp\bin\Debug\netcoreapp3.1\testConsoleApp.pdb
+C:\Users\carol\source\repos\testConsoleApp\testConsoleApp\obj\Debug\netcoreapp3.1\testConsoleApp.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\testConsoleApp\testConsoleApp\obj\Debug\netcoreapp3.1\testConsoleApp.AssemblyInfoInputs.cache
+C:\Users\carol\source\repos\testConsoleApp\testConsoleApp\obj\Debug\netcoreapp3.1\testConsoleApp.AssemblyInfo.cs
+C:\Users\carol\source\repos\testConsoleApp\testConsoleApp\obj\Debug\netcoreapp3.1\testConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\testConsoleApp\testConsoleApp\obj\Debug\netcoreapp3.1\testConsoleApp.dll
+C:\Users\carol\source\repos\testConsoleApp\testConsoleApp\obj\Debug\netcoreapp3.1\testConsoleApp.pdb
+C:\Users\carol\source\repos\testConsoleApp\testConsoleApp\obj\Debug\netcoreapp3.1\testConsoleApp.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\carol\source\repos\UdemyCompleto\UdemyCompleto\bin\Debug\netcoreapp3.1\UdemyCompleto.exe
+C:\Users\carol\source\repos\UdemyCompleto\UdemyCompleto\bin\Debug\netcoreapp3.1\UdemyCompleto.deps.json
+C:\Users\carol\source\repos\UdemyCompleto\UdemyCompleto\bin\Debug\netcoreapp3.1\UdemyCompleto.runtimeconfig.json
+C:\Users\carol\source\repos\UdemyCompleto\UdemyCompleto\bin\Debug\netcoreapp3.1\UdemyCompleto.runtimeconfig.dev.json
+C:\Users\carol\source\repos\UdemyCompleto\UdemyCompleto\bin\Debug\netcoreapp3.1\UdemyCompleto.dll
+C:\Users\carol\source\repos\UdemyCompleto\UdemyCompleto\bin\Debug\netcoreapp3.1\UdemyCompleto.pdb
+C:\Users\carol\source\repos\UdemyCompleto\UdemyCompleto\obj\Debug\netcoreapp3.1\UdemyCompleto.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\UdemyCompleto\UdemyCompleto\obj\Debug\netcoreapp3.1\UdemyCompleto.AssemblyInfoInputs.cache
+C:\Users\carol\source\repos\UdemyCompleto\UdemyCompleto\obj\Debug\netcoreapp3.1\UdemyCompleto.AssemblyInfo.cs
+C:\Users\carol\source\repos\UdemyCompleto\UdemyCompleto\obj\Debug\netcoreapp3.1\UdemyCompleto.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\UdemyCompleto\UdemyCompleto\obj\Debug\netcoreapp3.1\UdemyCompleto.dll
+C:\Users\carol\source\repos\UdemyCompleto\UdemyCompleto\obj\Debug\netcoreapp3.1\UdemyCompleto.pdb
+C:\Users\carol\source\repos\UdemyCompleto\UdemyCompleto\obj\Debug\netcoreapp3.1\UdemyCompleto.genruntimeconfig.cache

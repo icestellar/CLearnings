@@ -1,0 +1,13 @@
+C:\Users\carol\source\repos\UdemyCompleto\UdemyVectors\obj\Debug\netcoreapp3.1\UdemyVectors.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\UdemyCompleto\UdemyVectors\obj\Debug\netcoreapp3.1\UdemyVectors.AssemblyInfoInputs.cache
+C:\Users\carol\source\repos\UdemyCompleto\UdemyVectors\obj\Debug\netcoreapp3.1\UdemyVectors.AssemblyInfo.cs
+C:\Users\carol\source\repos\UdemyCompleto\UdemyVectors\obj\Debug\netcoreapp3.1\UdemyVectors.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\UdemyCompleto\UdemyVectors\bin\Debug\netcoreapp3.1\UdemyVectors.exe
+C:\Users\carol\source\repos\UdemyCompleto\UdemyVectors\bin\Debug\netcoreapp3.1\UdemyVectors.deps.json
+C:\Users\carol\source\repos\UdemyCompleto\UdemyVectors\bin\Debug\netcoreapp3.1\UdemyVectors.runtimeconfig.json
+C:\Users\carol\source\repos\UdemyCompleto\UdemyVectors\bin\Debug\netcoreapp3.1\UdemyVectors.runtimeconfig.dev.json
+C:\Users\carol\source\repos\UdemyCompleto\UdemyVectors\bin\Debug\netcoreapp3.1\UdemyVectors.dll
+C:\Users\carol\source\repos\UdemyCompleto\UdemyVectors\bin\Debug\netcoreapp3.1\UdemyVectors.pdb
+C:\Users\carol\source\repos\UdemyCompleto\UdemyVectors\obj\Debug\netcoreapp3.1\UdemyVectors.dll
+C:\Users\carol\source\repos\UdemyCompleto\UdemyVectors\obj\Debug\netcoreapp3.1\UdemyVectors.pdb
+C:\Users\carol\source\repos\UdemyCompleto\UdemyVectors\obj\Debug\netcoreapp3.1\UdemyVectors.genruntimeconfig.cache
