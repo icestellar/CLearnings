@@ -1,0 +1,16 @@
+C:\Users\carol\source\repos\SistemaInterno\SistemaInterno\bin\Debug\netcoreapp3.1\SistemaInterno.exe
+C:\Users\carol\source\repos\SistemaInterno\SistemaInterno\bin\Debug\netcoreapp3.1\SistemaInterno.deps.json
+C:\Users\carol\source\repos\SistemaInterno\SistemaInterno\bin\Debug\netcoreapp3.1\SistemaInterno.runtimeconfig.json
+C:\Users\carol\source\repos\SistemaInterno\SistemaInterno\bin\Debug\netcoreapp3.1\SistemaInterno.runtimeconfig.dev.json
+C:\Users\carol\source\repos\SistemaInterno\SistemaInterno\bin\Debug\netcoreapp3.1\SistemaInterno.dll
+C:\Users\carol\source\repos\SistemaInterno\SistemaInterno\bin\Debug\netcoreapp3.1\SistemaInterno.pdb
+C:\Users\carol\source\repos\SistemaInterno\SistemaInterno\bin\Debug\netcoreapp3.1\ByteBank.Modelos.dll
+C:\Users\carol\source\repos\SistemaInterno\SistemaInterno\obj\Debug\netcoreapp3.1\SistemaInterno.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\SistemaInterno\SistemaInterno\obj\Debug\netcoreapp3.1\SistemaInterno.AssemblyInfoInputs.cache
+C:\Users\carol\source\repos\SistemaInterno\SistemaInterno\obj\Debug\netcoreapp3.1\SistemaInterno.AssemblyInfo.cs
+C:\Users\carol\source\repos\SistemaInterno\SistemaInterno\obj\Debug\netcoreapp3.1\SistemaInterno.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\SistemaInterno\SistemaInterno\obj\Debug\netcoreapp3.1\SistemaInterno.csproj.CopyComplete
+C:\Users\carol\source\repos\SistemaInterno\SistemaInterno\obj\Debug\netcoreapp3.1\SistemaInterno.dll
+C:\Users\carol\source\repos\SistemaInterno\SistemaInterno\obj\Debug\netcoreapp3.1\SistemaInterno.pdb
+C:\Users\carol\source\repos\SistemaInterno\SistemaInterno\obj\Debug\netcoreapp3.1\SistemaInterno.genruntimeconfig.cache
+C:\Users\carol\source\repos\SistemaInterno\SistemaInterno\bin\Debug\netcoreapp3.1\ByteBank.Modelos.xml
