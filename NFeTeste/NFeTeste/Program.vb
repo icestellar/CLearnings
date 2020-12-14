@@ -10,10 +10,11 @@ Module Program
         Dim numero As String = "000000098"
         Dim tipodeEmissao As String = "2"
         Dim codigoDaNFe As String = "36411778"
-        Dim numeroDaNf = Ufestado + AnoEMes + CNPJ + model + serie + numero + tipodeEmissao + codigoDaNFe
-        Dim CV As Integer
+        'Dim numeroDaNf = Ufestado + AnoEMes + CNPJ + model + serie + numero + tipodeEmissao + codigoDaNFe
+        Dim numeroDF = "5111200423533400109608890000000098236411778"
 
-        Console.WriteLine(CalculaDV(numeroDaNf))
+
+        Console.WriteLine(CalculaDV(numeroDF))
         'Console.WriteLine("512011042353340010965589000001335211527700598".Length)
 
     End Sub

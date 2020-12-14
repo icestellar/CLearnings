@@ -1,0 +1,13 @@
+C:\Users\carol\source\repos\ByteBank\ErrosEExcessoesAlura\bin\Debug\netcoreapp3.1\ErrosEExcessoesAlura.exe
+C:\Users\carol\source\repos\ByteBank\ErrosEExcessoesAlura\bin\Debug\netcoreapp3.1\ErrosEExcessoesAlura.deps.json
+C:\Users\carol\source\repos\ByteBank\ErrosEExcessoesAlura\bin\Debug\netcoreapp3.1\ErrosEExcessoesAlura.runtimeconfig.json
+C:\Users\carol\source\repos\ByteBank\ErrosEExcessoesAlura\bin\Debug\netcoreapp3.1\ErrosEExcessoesAlura.runtimeconfig.dev.json
+C:\Users\carol\source\repos\ByteBank\ErrosEExcessoesAlura\bin\Debug\netcoreapp3.1\ErrosEExcessoesAlura.dll
+C:\Users\carol\source\repos\ByteBank\ErrosEExcessoesAlura\bin\Debug\netcoreapp3.1\ErrosEExcessoesAlura.pdb
+C:\Users\carol\source\repos\ByteBank\ErrosEExcessoesAlura\obj\Debug\netcoreapp3.1\ErrosEExcessoesAlura.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\ByteBank\ErrosEExcessoesAlura\obj\Debug\netcoreapp3.1\ErrosEExcessoesAlura.AssemblyInfoInputs.cache
+C:\Users\carol\source\repos\ByteBank\ErrosEExcessoesAlura\obj\Debug\netcoreapp3.1\ErrosEExcessoesAlura.AssemblyInfo.cs
+C:\Users\carol\source\repos\ByteBank\ErrosEExcessoesAlura\obj\Debug\netcoreapp3.1\ErrosEExcessoesAlura.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\ByteBank\ErrosEExcessoesAlura\obj\Debug\netcoreapp3.1\ErrosEExcessoesAlura.dll
+C:\Users\carol\source\repos\ByteBank\ErrosEExcessoesAlura\obj\Debug\netcoreapp3.1\ErrosEExcessoesAlura.pdb
+C:\Users\carol\source\repos\ByteBank\ErrosEExcessoesAlura\obj\Debug\netcoreapp3.1\ErrosEExcessoesAlura.genruntimeconfig.cache
