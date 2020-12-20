@@ -1,0 +1,13 @@
+C:\Users\carol\source\repos\ByteModelos\TestingObjectArrays\bin\Debug\netcoreapp3.1\TestingObjectArrays.exe
+C:\Users\carol\source\repos\ByteModelos\TestingObjectArrays\bin\Debug\netcoreapp3.1\TestingObjectArrays.deps.json
+C:\Users\carol\source\repos\ByteModelos\TestingObjectArrays\bin\Debug\netcoreapp3.1\TestingObjectArrays.runtimeconfig.json
+C:\Users\carol\source\repos\ByteModelos\TestingObjectArrays\bin\Debug\netcoreapp3.1\TestingObjectArrays.runtimeconfig.dev.json
+C:\Users\carol\source\repos\ByteModelos\TestingObjectArrays\bin\Debug\netcoreapp3.1\TestingObjectArrays.dll
+C:\Users\carol\source\repos\ByteModelos\TestingObjectArrays\bin\Debug\netcoreapp3.1\TestingObjectArrays.pdb
+C:\Users\carol\source\repos\ByteModelos\TestingObjectArrays\obj\Debug\netcoreapp3.1\TestingObjectArrays.csprojAssemblyReference.cache
+C:\Users\carol\source\repos\ByteModelos\TestingObjectArrays\obj\Debug\netcoreapp3.1\TestingObjectArrays.AssemblyInfoInputs.cache
+C:\Users\carol\source\repos\ByteModelos\TestingObjectArrays\obj\Debug\netcoreapp3.1\TestingObjectArrays.AssemblyInfo.cs
+C:\Users\carol\source\repos\ByteModelos\TestingObjectArrays\obj\Debug\netcoreapp3.1\TestingObjectArrays.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\ByteModelos\TestingObjectArrays\obj\Debug\netcoreapp3.1\TestingObjectArrays.dll
+C:\Users\carol\source\repos\ByteModelos\TestingObjectArrays\obj\Debug\netcoreapp3.1\TestingObjectArrays.pdb
+C:\Users\carol\source\repos\ByteModelos\TestingObjectArrays\obj\Debug\netcoreapp3.1\TestingObjectArrays.genruntimeconfig.cache
